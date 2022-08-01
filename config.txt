@@ -1,0 +1,2 @@
+car = com.green.di.diBasic2.SportsCar
+engine = com.green.di.diBasic2.Engine
