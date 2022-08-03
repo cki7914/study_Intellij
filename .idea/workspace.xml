@@ -5,11 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d979a0fe-c3a8-4013-8700-de543f24cd7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/SpringDITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/diBasic4/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_database_ha_ons_11_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_database_ha_simplefan_11_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_database_jdbc_ojdbc6_11_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_database_jdbc_ucp_11_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_database_security_oraclepki_11_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_database_security_osdt_cert_11_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_database_security_osdt_core_11_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/DBConnectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/DBConnectionTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/di/DBConnectionTest2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/di/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/di_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/di_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di.iml" beforeDir="false" afterPath="$PROJECT_DIR$/di.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +36,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -52,7 +71,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "junit.framework.TestCase",
     "last_opened_file_path": "C:/Users/GreenArt/IdeaProjects/2_DI/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -64,19 +87,32 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
     "spring.configuration.checksum": "690382ddccb8abc7367a136262e1978f"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.green.di" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\GreenArt\IdeaProjects\2_DI\src\main\resources" />
       <recent name="C:\Users\GreenArt\IdeaProjects\2_DI\src\main\java\com\green\di\diBasic4" />
       <recent name="C:\Users\GreenArt\IdeaProjects\2_DI\src\main\java\com\green\di\diBasic3" />
       <recent name="C:\Users\GreenArt\IdeaProjects\2_DI\src\main\java\com\green\di\diBasic2" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.green.di" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SpringDITest (3)">
-    <configuration name="SpringDITest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.green.di.SpringDITest" />
+  <component name="RunManager" selected="JUnit.DBConnectionTest2Test.testDeleteUser">
+    <configuration name="DBConnectionTest2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="di" />
       <extension name="coverage">
         <pattern>
@@ -84,12 +120,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.green.di" />
+      <option name="MAIN_CLASS_NAME" value="com.green.di.DBConnectionTest2Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringDITest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.green.di.SpringDITest" />
+    <configuration name="DBConnectionTest2Test.testDeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="di" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +135,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.green.di" />
+      <option name="MAIN_CLASS_NAME" value="com.green.di.DBConnectionTest2Test" />
+      <option name="METHOD_NAME" value="testDeleteUser" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringDITest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.green.di.SpringDITest" />
+    <configuration name="DBConnectionTest2Test.testInsertUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="di" />
       <extension name="coverage">
         <pattern>
@@ -110,12 +151,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.green.di" />
+      <option name="MAIN_CLASS_NAME" value="com.green.di.DBConnectionTest2Test" />
+      <option name="METHOD_NAME" value="testInsertUser" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringDITest (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.green.di.SpringDITest" />
+    <configuration name="DBConnectionTest2Test.testSelectUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="di" />
       <extension name="coverage">
         <pattern>
@@ -123,12 +167,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.green.di" />
+      <option name="MAIN_CLASS_NAME" value="com.green.di.DBConnectionTest2Test" />
+      <option name="METHOD_NAME" value="testSelectUser" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringDITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.green.di.SpringDITest" />
+    <configuration name="DBConnectionTest2Test.testmain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="di" />
       <extension name="coverage">
         <pattern>
@@ -136,17 +183,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.green.di" />
+      <option name="MAIN_CLASS_NAME" value="com.green.di.DBConnectionTest2Test" />
+      <option name="METHOD_NAME" value="testmain" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpringDITest (3)" />
-        <item itemvalue="Application.SpringDITest (2)" />
-        <item itemvalue="Application.SpringDITest" />
-        <item itemvalue="Application.SpringDITest (1)" />
-        <item itemvalue="Application.SpringDITest (5)" />
+        <item itemvalue="JUnit.DBConnectionTest2Test.testDeleteUser" />
+        <item itemvalue="JUnit.DBConnectionTest2Test.testSelectUser" />
+        <item itemvalue="JUnit.DBConnectionTest2Test.testInsertUser" />
+        <item itemvalue="JUnit.DBConnectionTest2Test.testmain" />
+        <item itemvalue="JUnit.DBConnectionTest2Test" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +211,8 @@
       <updated>1659320836080</updated>
       <workItem from="1659320837188" duration="3314000" />
       <workItem from="1659324405939" duration="9071000" />
-      <workItem from="1659398589008" duration="12150000" />
+      <workItem from="1659398589008" duration="12204000" />
+      <workItem from="1659483497184" duration="16374000" />
     </task>
     <servers />
   </component>
