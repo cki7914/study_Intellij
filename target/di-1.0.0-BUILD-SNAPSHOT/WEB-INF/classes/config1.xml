@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean으로 사용할 클래스들을 등록 -->
+    <bean id="car" class="com.green.di.Car">
+        <constructor-arg name="color" value="blue" />
+        <constructor-arg name="oil" value="200" />
+        <constructor-arg name="engine" ref="engine" /> <!-- engine은 참조변수이므로 ref 사용 -->
+        <constructor-arg name="doors">
+            <array value-type="com.green.di.Door">
+                <ref bean="door" />
+                <ref bean="door" />
+            </array>
+        </constructor-arg>
+    </bean>
+    <bean id="engine" class="com.green.di.Engine" />
+    <bean id="door" class="com.green.di.Door" scope="prototype" />
+
+</beans>

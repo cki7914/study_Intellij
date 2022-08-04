@@ -82,7 +82,7 @@ public class DBConnectionTest2Test extends TestCase {
         try{
             Connection conn = ds.getConnection();
 
-            String sql = "update user_info set pwd=?, name=?, email=? birth=?, sns=? where id=?";
+            String sql = "update user_info set pwd=?, name=?, email=?, birth=?, sns=? where id=?";
             PreparedStatement psmt = conn.prepareStatement(sql);
             psmt.setString(1, user.getPwd());
             psmt.setString(2, user.getName());
