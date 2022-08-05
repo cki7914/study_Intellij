@@ -28,7 +28,7 @@ public class UserValidator implements Validator {
         ValidationUtils.rejectIfEmptyOrWhitespace(errors, "pwd", "required");
 
         if(id==null || id.length() <  5 || id.length() > 12) {
-            errors.rejectValue("id", "invalidLength", new String[]{"5", "12", null});
+            errors.rejectValue("id", "invalidLength", new String[]{"5", "12"}, null);
         }
     }
 }

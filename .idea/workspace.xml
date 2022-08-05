@@ -10,43 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d979a0fe-c3a8-4013-8700-de543f24cd7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/RegisterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/error_message.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/loginForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/registerForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/registerInfo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/aop/AopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/aop/AopMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/aop/LoggingAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/di/aop/MyMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context_aop.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/di_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/di_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_3_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_1_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_7_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/di.iml" beforeDir="false" afterPath="$PROJECT_DIR$/di.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/green/di/DBConnectionTest2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/green/di/DBConnectionTest2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/green/di/DBConnectionTest2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/green/di/DBConnectionTest2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/green/di/UserValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/green/di/UserValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/green/di/UserValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/green/di/UserValidator.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +35,8 @@
         <option value="JUnit3 Test Class" />
         <option value="JUnit4 Test Class" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -105,7 +80,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "junit.framework.TestCase",
-    "last_opened_file_path": "C:/Users/GreenArt/IdeaProjects/2_DI/src/main/resources",
+    "last_opened_file_path": "C:/Users/GreenArt/IdeaProjects/2_DI/src/main/webapp/WEB-INF/spring",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -128,6 +103,7 @@
       <recent name="com.green.di" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GreenArt\IdeaProjects\2_DI\src\main\webapp\WEB-INF\spring" />
       <recent name="C:\Users\GreenArt\IdeaProjects\2_DI\src\main\resources" />
       <recent name="C:\Users\GreenArt\IdeaProjects\2_DI\src\main\java\com\green\di\diBasic4" />
       <recent name="C:\Users\GreenArt\IdeaProjects\2_DI\src\main\java\com\green\di\diBasic3" />
@@ -146,7 +122,33 @@
       <recent name="com.green.di" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.26">
+  <component name="RunManager" selected="Application.AopMain2">
+    <configuration name="AopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.green.di.aop.AopMain" />
+      <module name="di" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.di.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AopMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.green.di.aop.AopMain2" />
+      <module name="di" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.di.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DBConnectionTest2Test.testDeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="di" />
       <extension name="coverage">
@@ -158,22 +160,6 @@
       <option name="PACKAGE_NAME" value="com.green.di" />
       <option name="MAIN_CLASS_NAME" value="com.green.di.DBConnectionTest2Test" />
       <option name="METHOD_NAME" value="testDeleteUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DBConnectionTest2Test.testInsertUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="di" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.green.di.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.green.di" />
-      <option name="MAIN_CLASS_NAME" value="com.green.di.DBConnectionTest2Test" />
-      <option name="METHOD_NAME" value="testInsertUser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -206,22 +192,6 @@
       <option name="PACKAGE_NAME" value="com.green.di" />
       <option name="MAIN_CLASS_NAME" value="com.green.di.DBConnectionTest2Test" />
       <option name="METHOD_NAME" value="testUpdateUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DBConnectionTest2Test.testmain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="di" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.green.di.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.green.di" />
-      <option name="MAIN_CLASS_NAME" value="com.green.di.DBConnectionTest2Test" />
-      <option name="METHOD_NAME" value="testmain" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -317,20 +287,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.AopMain" />
+      <item itemvalue="Application.AopMain2" />
       <item itemvalue="JUnit.DBConnectionTest2Test.testDeleteUser" />
-      <item itemvalue="JUnit.DBConnectionTest2Test.testInsertUser" />
-      <item itemvalue="JUnit.DBConnectionTest2Test.testmain" />
       <item itemvalue="JUnit.DBConnectionTest2Test.testSelectUser" />
       <item itemvalue="JUnit.DBConnectionTest2Test.testUpdateUser" />
       <item itemvalue="Tomcat Server.Tomcat 8.0.26" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AopMain2" />
+        <item itemvalue="Application.AopMain" />
         <item itemvalue="JUnit.DBConnectionTest2Test.testUpdateUser" />
         <item itemvalue="JUnit.DBConnectionTest2Test.testDeleteUser" />
         <item itemvalue="JUnit.DBConnectionTest2Test.testSelectUser" />
-        <item itemvalue="JUnit.DBConnectionTest2Test.testInsertUser" />
-        <item itemvalue="JUnit.DBConnectionTest2Test.testmain" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +316,8 @@
       <workItem from="1659324405939" duration="9071000" />
       <workItem from="1659398589008" duration="12204000" />
       <workItem from="1659483497184" duration="17601000" />
-      <workItem from="1659570841170" duration="8410000" />
+      <workItem from="1659570841170" duration="10992000" />
+      <workItem from="1659654221876" duration="7456000" />
     </task>
     <servers />
   </component>
